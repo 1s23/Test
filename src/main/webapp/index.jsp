@@ -1,0 +1,39 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>WeeklyReport</title>
+	<style>
+		
+	</style>
+
+</head>
+<body>
+
+	<h1 align=center>WeeklyReport</h1>
+	<hr>
+	<ol id="1">
+		<li>
+			<a href="1.jsp">github上的源代码存储仓库、分支、及commit记录</a>
+			<br/>
+			<br/>
+			<br/>
+		<li>
+			<a href="2.jsp">github上源代码集合，maven的POM文件等</a>
+			<br/>
+			<br/>
+			<br/>
+		<li>
+			<a href="3.jsp">有关软件开发基础学习实践报告</a>
+	
+	
+	</ol>
+	
+	
+
+
+
+</body>
+</html>
