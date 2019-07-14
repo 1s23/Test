@@ -11,7 +11,6 @@
 
 </head>
 <body>
-	<p>ps:这是我好像理解错了任务内容做的</p>
 	<h1 align=center>WeeklyReport</h1>
 	<hr>
 	<ol id="1">
